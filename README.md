@@ -1,11 +1,4 @@
-# Fast React Pizza Co. | Full React Project
-
-![Screenshot](/public/screenshots/screenshot.jpeg)
-![Screenshot](/public/screenshots/1.jpeg)
-![Screenshot](/public/screenshots/1.2.jpeg)
-![Screenshot](/public/screenshots/2.jpeg)
-![Screenshot](/public/screenshots/3.jpeg)
-![Screenshot](/public/screenshots/4.jpeg)
+# Artisan Pizza with API 
 
 ## Run Locally
 
